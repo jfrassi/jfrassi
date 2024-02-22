@@ -32,11 +32,11 @@
 <br/>
 
 <a href="https://github.com/jfrassi" title="Perfil do João">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfrassi&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-frassi/)](https://www.linkedin.com/in/joao-frassi/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaofrassi.dev@gmail.com)](mailto:joaofrassi.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/jfrassi)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-frassi/)](https://www.linkedin.com/in/joao-frassi/)
+[![Gmail Badge](https://img.shields.io/badge/-joaofrassi.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:joaofrassi.dev@gmail.com)](mailto:joaofrassi.dev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/jfrassi?label=follow&style=social)](github.com/jfrassi)
