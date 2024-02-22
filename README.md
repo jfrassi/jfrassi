@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=jfrassi&color=006bed)
 
 ## Sobre mim
 
@@ -11,23 +11,21 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-dc143c?style=for-the-badge&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-dc143c?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge=CSS3&logoColor=1572B6)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-dc143c?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=993399)
 
 <br/>
 
@@ -37,6 +35,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-frassi/)](https://www.linkedin.com/in/joao-frassi/)
+[![Linkedin](https://img.shields.io/badge/-joao-frassi-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-frassi/)](https://www.linkedin.com/in/joao-frassi/)
 [![Gmail Badge](https://img.shields.io/badge/-joaofrassi.dev-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:joaofrassi.dev@gmail.com)](mailto:joaofrassi.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/jfrassi?label=follow&style=social)](github.com/jfrassi)
