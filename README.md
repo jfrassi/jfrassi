@@ -5,15 +5,15 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de sistemas na Universidade Vila Velha.
 - 💼 Trabalhando como Estagiário de Desenvolvimento na Eurotêxtil Comércio e Importação.
-- 🌱 Aprendendo mais sobre Angular, Typescript, Java, SQLDeveloper.
+- 🌱 Aprendendo mais sobre Angular, Typescript, Java, Oracle DB.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-FF5733?style=for-the-badge&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge=CSS3&logoColor=1572B6)
 
 **DevOps**
@@ -23,7 +23,7 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=3333)
 ![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=993399)
 
