@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de sistemas na Universidade Vila Velha.
-- 💼 Trabalhando como Estagiário de Desenvolvimento na Eurotêxtil Comércio e Importação.
-- 🌱 Aprendendo mais sobre Angular, Typescript, Java, Oracle DB.
+- 💼 Trabalhando como Estagiário de Desenvolvimento numa empresa que comercializa vidros, peças e soluções tecnológicas também.
+- 🌱 Aprendendo mais sobre Angular, Typescript, .NET
 
 ## Minhas Skills
 
